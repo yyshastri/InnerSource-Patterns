@@ -2,7 +2,7 @@
 
 ## Title
 
-Elicit support from senior management (S4)
+Elicit support from senior management 
 
 ## Patlet
 
