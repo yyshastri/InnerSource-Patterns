@@ -49,4 +49,4 @@ Organizational policies (KPI's and incentive structures) and politics create a c
 
 - This pattern has been identified by eleven (P01, P03,P04,P08,P09,P10,P14,P18,P20,P23, and P25) panellists to have been implemented in their organisations.
 
-# Pattern 4 - Elicit Support from Senior Management
+
