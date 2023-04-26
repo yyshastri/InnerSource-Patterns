@@ -39,7 +39,7 @@ Organizational policies (KPI's and incentive structures) and politics create a c
 - Praise and encouragement by the ISPO/OSPO/Committee will motivate contributors.
 - Collaborative code management tools will enable developers to InnerSource their code and contribute with ease.
 
-##Limitation/Blockers
+## Limitation/Blockers
 
 - Extensive communication must be done with senior management to bring different parts of the organization, such as the developers and technical committee, on board (P08, P11).
 - Lack of a specialized role who can train developers in InnerSource (P11).
