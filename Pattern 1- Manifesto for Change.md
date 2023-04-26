@@ -1,4 +1,4 @@
-# Sample Pattern 1
+# Pattern 1- Manifesto for Change
 
 ## Title
 
