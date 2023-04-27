@@ -23,6 +23,6 @@ The GitHub [repository](https://github.com/yyshastri/InnerSource-Patterns) conta
 
 To structure the task, we provide a simple template in this repository, available here (a MS Word document) [Round 3 template](https://github.com/yyshastri/InnerSource-Patterns/blob/main/Round%203-template.docx). For each pattern, you can indicate its applicability to a level by either marking an 'X' in the relevant cell of the table, or some short comments to clarify your choice. Below is an example:
 
-![Example](img/Round\ 3-example.png)
+![Example](img/Round3-example.png)
 
 It would be great if you could submit your input by May 13, 2023 (about 2 weeks from now). 
