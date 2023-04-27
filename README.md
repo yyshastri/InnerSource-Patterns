@@ -4,7 +4,8 @@ This document presents the synthesis of the results of Round 2 in which we asked
 
 In Round 2 you were presented with a hierarchy of levels, wherein each level had a set of associated challenges and strategies. A brief explanation of each level is given below.
 
-![Hierarchy of levels](half-onion-is-delphi.png)
+<img src="half-onion-is-delphi.png" alt="Hierarchy of levels" width="50%" title="Hierarchy of levels">
+
 
 - Level 1 Organizational Environment: An organization’s environment can be considered as an amalgamation of the organizational culture, its policies and processes, and the behavioral element of the units which make up the organization, i.e., business units, departments, and teams.
 
