@@ -14,8 +14,8 @@ In Round 2 you were presented with a hierarchy of levels, wherein each level had
 
 - Level 5 Individual: The individual is the innermost layer and comprises of people who constitute the team. 
 
-***Focus for Round 3:*** The GitHub [repository](https://github.com/yyshastri/InnerSource-Patterns) contains a a list of 19 patterns which were identified during the analysis of your inputs from Round 2. 
+The GitHub [repository](https://github.com/yyshastri/InnerSource-Patterns) contains a a list of 19 patterns which were identified during the analysis of your input from Round 2. 
 
-Please match the patterns to the level which you think is appropriate. If you feel that a pattern overlaps into multiple levels, please feel free to match it with the relevant levels.
+***Focus for Round 3:*** For each pattern, please indicate to which level the pattern is appropriate in your view. If you think that a pattern is applicable to multiple levels, please feel free to match it with the relevant levels. 
 
-Please be sure to use the [Round 3 template](https://github.com/yyshastri/InnerSource-Patterns/blob/main/Round%203-template.docx) in the repository to match patterns to any of the 5 levels. 
+To structure the task, we provide a simple template in this repository, available here (a MS Word document) [Round 3 template](https://github.com/yyshastri/InnerSource-Patterns/blob/main/Round%203-template.docx). For each pattern, you can indicate its applicability to a level by either marking an 'X' in the relevant cell of the table, or some short comments to clarify your choice. Below is an example:
