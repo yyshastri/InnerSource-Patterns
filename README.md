@@ -2,7 +2,7 @@
 
 This document presents the synthesis of the results of Round 2 in which we asked you to provide your feedback on the challenges and strategies identified in Round 1. Based on your inputs we have distilled a list of InnerSource Patterns whose structure is based on the patterns as found in the InnerSource Commons.
 
-In Round 2 you were presented with a hierarchy of levels, wherein each level had a set of associated challenges and strategies. A brief explanation of each level is given below.
+In Round 2 you were presented with a hierarchy of levels (see figure below), wherein each level had a set of associated challenges and strategies. A brief explanation of each level is given below.
 
 <img src="half-onion-is-delphi.png" alt="Hierarchy of levels" width="50%" title="Hierarchy of levels">
 
