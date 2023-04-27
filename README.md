@@ -17,7 +17,7 @@ In Round 2 you were presented with a hierarchy of levels (see figure below), whe
 
 - Level 5 Individual: The individual is the innermost layer and comprises of people who constitute the team. 
 
-The GitHub [repository](https://github.com/yyshastri/InnerSource-Patterns) contains a list of 19 patterns which were identified during the analysis of your input from Round 2. 
+The GitHub [repository](https://github.com/yyshastri/InnerSource-Patterns) contains a list of 19 patterns which were identified during the analysis of your input from Round 2. For each pattern, we identified the anonymized participant identifiers whose input led to the pattern (a full list of participants can be found in the file ![participants.md](participants.md).
 
 ***Focus for Round 3:*** For each pattern, please indicate to which level the pattern is appropriate in your view. If you think that a pattern is applicable to multiple levels, please feel free to match it with the relevant levels. 
 
