@@ -4,7 +4,7 @@ This document presents the synthesis of the results of Round 2 in which we asked
 
 In Round 2 you were presented with a hierarchy of levels (see figure below), wherein each level had a set of associated challenges and strategies. A brief explanation of each level is given below.
 
-<img src="half-onion-is-delphi.png" alt="Hierarchy of levels" width="50%" title="Hierarchy of levels">
+<img src="img/half-onion-is-delphi.png" alt="Hierarchy of levels" width="50%" title="Hierarchy of levels">
 
 
 - Level 1 Organizational Environment: An organization’s environment can be considered as an amalgamation of the organizational culture, its policies and processes, and the behavioral element of the units which make up the organization, i.e., business units, departments, and teams.
@@ -23,5 +23,6 @@ The GitHub [repository](https://github.com/yyshastri/InnerSource-Patterns) conta
 
 To structure the task, we provide a simple template in this repository, available here (a MS Word document) [Round 3 template](https://github.com/yyshastri/InnerSource-Patterns/blob/main/Round%203-template.docx). For each pattern, you can indicate its applicability to a level by either marking an 'X' in the relevant cell of the table, or some short comments to clarify your choice. Below is an example:
 
+![Example](img/Round\ 3-example.png)
 
 It would be great if you could submit your input by May 13, 2023 (about 2 weeks from now). 
