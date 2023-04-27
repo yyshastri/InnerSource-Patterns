@@ -18,4 +18,4 @@ In Round 2 you were presented with a hierarchy of levels, wherein each level had
 
 Please match the patterns to the level which you think is appropriate. If you feel that a pattern overlaps into multiple levels, please feel free to match it with the relevant levels.
 
-Please be sure to use the Round 3 template in the repository to match patterns to any of the 5 levels. 
+Please be sure to use the [Round 3 template](https://github.com/yyshastri/InnerSource-Patterns/blob/main/Round%203-template.docx) in the repository to match patterns to any of the 5 levels. 
