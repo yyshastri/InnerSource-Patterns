@@ -8,13 +8,13 @@ In Round 2 you were presented with a hierarchy of levels, wherein each level had
 
 - Level 2 Executive Management: This is the second layer and is an element which exerts considerable influence on the behavior of other layers. Executive management is also able to influence the constituent factors of the organizational environment. 
 
-- Level 3 Middle Management:**  Middle management is the third layer and has a certain amount of independent agency which allows it to influence the behavior of the team.
+- Level 3 Middle Management: Middle management is the third layer and has a certain amount of independent agency which allows it to influence the behavior of the team.
 
 - Level 4 Team: The team is a dynamic unit composed of individuals who may be developers or a cross-functional team of testers, developers, architects. This is not a static unit and has a unique existence within the broader organization.
 
 - Level 5 Individual: The individual is the innermost layer and comprises of people who constitute the team. 
 
-***Your focus for Round 3:*** The GitHub [repository](https://github.com/yyshastri/InnerSource-Patterns) contains a a list of 19 patterns which were identified as part of data analysis of your inputs from Round 2. 
+***Focus for Round 3:*** The GitHub [repository](https://github.com/yyshastri/InnerSource-Patterns) contains a a list of 19 patterns which were identified during the analysis of your inputs from Round 2. 
 
 Please match the patterns to the level which you think is appropriate. If you feel that a pattern overlaps into multiple levels, please feel free to match it with the relevant levels.
 
