@@ -39,4 +39,4 @@ Technology framework covers infrastructure areas such as development environment
 
 ## Known Instances
 
-- This pattern has been identified by 5 panelists (P03, P08, P09, P17, P18, P23,and P25) to have been implemented in their organizations.
+- This pattern has been identified by 7 panelists (P03, P08, P09, P17, P18, P23,and P25) to have been implemented in their organizations.
