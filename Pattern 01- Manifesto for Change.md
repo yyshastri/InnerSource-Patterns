@@ -45,7 +45,7 @@ This document should: a) Outline the goals; and b) Mandate strategies and incent
 
 ## Known Instances (optional)
 
-This pattern has been identified by four (P10, P11, P20, P08) panelists to have been implemented in their organizations and has seen limited use in the case of three panelists (P01, P23, P07).
+This pattern has been identified by four (P08, P10, P11, and P20) panelists to have been implemented in their organizations and has seen limited use in the case of three panelists (P01,P07, and P23).
 
 ## Alias
 
