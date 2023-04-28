@@ -1,7 +1,7 @@
 
 | ID   | Job Title | InnerSource Experience (years)| Country
 | ----------- | ----------- | ----------- | ----------- |
-| P1   | Head of Open Source |
+| P1   | Head of Open Source | >12          |   USA     |
 | P2   | Principal Technical Program Manager |
 | P3   | Director of InnerSource |
 | P4   | Principal Program Manager |
