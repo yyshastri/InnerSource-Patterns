@@ -45,4 +45,4 @@ Ignorance of IS practices can lead people to have pre-conceived notions about IS
 
 ## Known Instances
 
-- This pattern has been identified by 7 panellists (P01, P01, P11, P15,P20, and P23) to have been implemented in their organizations.
+- This pattern has been identified by 6 panellists (P01, P07, P11, P15,P20, and P23) to have been implemented in their organizations.
