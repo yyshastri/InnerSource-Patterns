@@ -1,6 +1,6 @@
 A big thank you for participating in Round 2 — we hope you will be able to complete Round 3, which is the final round and which we expect will take about 100-120 minutes, though it could be done in several smaller chunks of 10 or 15 min. Below we describe the focus of Round 3.
 
-<img src="img/stage3.png" alt="Stage 3 of the Delphi Study" width="50%" title="Stage 3 of the Delphi Study">
+<img src="img/stage3.png" alt="Stage 3 of the Delphi Study" width="60%" title="Stage 3 of the Delphi Study">
 
 
 This document presents the synthesis of the results of Round 2 in which we asked you to provide your feedback on the challenges and strategies identified in Round 1. Based on your inputs we have distilled a list of InnerSource Patterns whose structure is based on the patterns as found in the InnerSource Commons.
