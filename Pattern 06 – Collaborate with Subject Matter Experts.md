@@ -41,4 +41,4 @@ With organizations that are globally distributed, the sharing of source code acr
 
 ## Known Instances
 
-- This pattern has been identified by seven panelists (P04, P09, P10, P11, P14, P17, P23) to have been implemented in their organizations.
+- This pattern has been identified by seven panelists (P04, P09, P10, P11, P14, P17, and P23) to have been implemented in their organizations.
