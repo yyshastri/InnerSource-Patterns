@@ -2,13 +2,13 @@
 | ID   | Job Title | InnerSource Experience (years)| Country
 | ----------- | ----------- | ----------- | ----------- |
 | P1   | Head of Open Source | >12          |   USA     |
-| P2   | Principal Technical Program Manager |
-| P3   | Director of InnerSource |
-| P4   | Principal Program Manager |
-| P5   | Software Developer |
-| P6   | Engineering Manager |
-| P7   | Head of DevOps |
-| P8   | Open Source Expert |
+| P2   | Principal Technical Program Manager | 5         |   USA     |
+| P3   | Director of InnerSource |6.5          |   USA     |
+| P4   | Principal Program Manager | 4          |   USA     |
+| P5   | Software Developer | 3          |   Germany     |
+| P6   | Engineering Manager | 5         |   USA     |
+| P7   | Head of DevOps | 5.5          |   France     |
+| P8   | Open Source Expert | 4          |   China     |
 | P9   | Chief Expert InnerSource |
 | P10  | Open Source Strategist |
 | P11  | Project lead |
