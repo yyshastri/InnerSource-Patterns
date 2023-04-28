@@ -35,5 +35,5 @@ Regulatory or taxation requirements specific to industry sector (e.g., finance, 
 
 ## Known Instances
 
-- This pattern has been identified by three panelists (P09, P11, P25) to have been implemented in their organizations.
+- This pattern has been identified by three panelists (P09, P11, and P25) to have been implemented in their organizations.
 
