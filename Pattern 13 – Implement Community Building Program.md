@@ -46,4 +46,4 @@ Awareness of the benefits and principles of InnerSource with limited to a few co
 
 ## Known Instances
 
-- This pattern has been identified by 10 panelists (P01, P03, P04, P08,P10,P11,P13, P15, P17, P23) to have been implemented in their organizations.
+- This pattern has been identified by 10 panelists (P01, P03, P04, P08,P10,P11,P13, P15, P17, and P23) to have been implemented in their organizations.
