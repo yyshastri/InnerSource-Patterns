@@ -1,6 +1,6 @@
 Dear InnerSource Expert,
 
-A big thank you for participating in Round 2 — we hope you will be able to complete Round 3, which is the final round and which we expect will take about 100-120 minutes, though it could be done in several smaller chunks of 10 or 15 min. Below we describe the focus of Round 3.
+A big thank you for participating in Round 2 — we hope you will be able to complete Round 3, which is the final round and which we expect will take about 100-120 minutes (based on ca. 5 min per pattern x 19 patterns), though it could be done in several smaller chunks of 10 or 15 min. Below we describe the focus of Round 3.
 
 <img src="img/stage3.png" alt="Stage 3 of the Delphi Study" width="60%" title="Stage 3 of the Delphi Study">
 
