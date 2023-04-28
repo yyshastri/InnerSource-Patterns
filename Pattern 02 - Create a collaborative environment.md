@@ -46,4 +46,4 @@ Organizational policies (KPI's and incentive structures) and politics create a c
 
 ## Known Instances
 
-- This pattern has been identified by seven (P14, P23,P01,P20,P08,P10,P04) panelists to have been implemented in their organizations.
+- This pattern has been identified by seven (P01,P04,P08,P10,P14,P20,and P23) panelists to have been implemented in their organizations.
