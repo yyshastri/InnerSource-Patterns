@@ -9,7 +9,7 @@
 | P6   | Engineering Manager | 5         |   USA     |
 | P7   | Head of DevOps | 5.5          |   France     |
 | P8   | Open Source Expert | 4          |   China     |
-| P9   | Chief Expert InnerSource | 13          |   Germany     |
+| P9   | InnerSource Advocate | 13          |   Germany     |
 | P10  | Open Source Strategist | 5          |   Germany     |
 | P11  | Project lead | 5          |  Germany     |
 | P12  | Founder and Board Chair | 20          |   Ireland     |
