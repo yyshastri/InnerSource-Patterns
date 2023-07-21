@@ -37,7 +37,7 @@ This document should: a) Outline the goals; and b) Mandate strategies and incent
 - Making it a company-wide strategy will help to communicate and advocate InnerSource to developers and managers (P08).
 - A manifesto can help to empower developers to use OS (P14).
 
-##Limitation/Blockers
+## Limitation/Blockers
 
 - In organizations with multiple product lines, success can vary depending on type of application across products (P20).
 - The creation and adoption of a manifesto needs many rounds of communication with enterprise level management (P08).
